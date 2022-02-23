@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+	margin-left: 240px;
+	background-color: #0A22F4;
+	display: flex;
+}
+h3{
+	margin-top: 275px;
+	font-size: 32px;
+	line-height: 39px;
+	color: #FFFFFF;
+}
+.footer-article{
+	margin-top: 30px;
+	width: 463px;
+	font-size: 16px;
+	line-height: 26px;
+	color: #FFFFFF;
+}
+iframe{
+	margin-top: 58px;
+	width: 463px;
+	height: 197px;
+}
+.contact-phone{
+	margin-top: 70px;
+}
+img{
+	position: absolute;
+}
+.outline1{
+	width: 70px;
+	z-index: 0;
+}
+.phone{
+	margin-top: 22px;
+	margin-left: 22px;
+	width: 26px;
+	z-index: 1;
+}
+.phone-number{
+	font-size: 22px;
+	line-height: 27px;
+	color: #FFFFFF;
+	position: absolute;
+	margin-left: 90px;
+	margin-top: 22px;
+}
+.contact-email{
+	margin-left: 366px;
+}
+.outline2{
+	width: 70px;
+	z-index: 0;
+}
+.email{
+	margin-top: 22px;
+	margin-left: 22px;
+	width: 26px;
+	z-index: 1;
+}
+.email-adress{
+	font-size: 22px;
+	line-height: 27px;
+	color: #FFFFFF;
+	position: absolute;
+	margin-left: 90px;
+	margin-top: 22px;
+}
+.form-block{
+	margin-left: 503px;
+	margin-top: 373px;
+}
+label{
+	font-size: 16px;
+	line-height: 19px;
+	color: #FFFFFF;
+}
+input{
+	width: 463px;
+	display: block;
+	margin-top: 22px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-color: green;
+	background-color: #0A22F4;
+}
+button{
+	font-size: 16px;
+	line-height: 19px;
+	color: #171717;
+	margin-top: -18px;
+}
+.form-row{
+	flex-direction: column;
+	margin-bottom: 81px;
+}
+#user-message{
+	margin-top: 120px;
+}
+button{
+	width: 151px;
+	height: 55px;
+	margin-left: 312px;
+}
