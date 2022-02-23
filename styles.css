@@ -9,12 +9,14 @@ body{
 	display: flex;
 }
 h3{
+	font-family: 'HelveticaNeue Bold';
 	margin-top: 275px;
 	font-size: 32px;
 	line-height: 39px;
 	color: #FFFFFF;
 }
 .footer-article{
+	font-family: 'HelveticaNeue';
 	margin-top: 30px;
 	width: 463px;
 	font-size: 16px;
@@ -43,6 +45,7 @@ img{
 	z-index: 1;
 }
 .phone-number{
+	font-family: 'HelveticaNeue Bold';
 	font-size: 22px;
 	line-height: 27px;
 	color: #FFFFFF;
@@ -58,6 +61,7 @@ img{
 	z-index: 0;
 }
 .email{
+	font-family: 'HelveticaNeue Bold';
 	margin-top: 22px;
 	margin-left: 22px;
 	width: 26px;
@@ -76,6 +80,7 @@ img{
 	margin-top: 373px;
 }
 label{
+	font-family: 'HelveticaNeue Bold';
 	font-size: 16px;
 	line-height: 19px;
 	color: #FFFFFF;
@@ -91,6 +96,7 @@ input{
 	background-color: #0A22F4;
 }
 button{
+	font-family: 'HelveticaNeue Bold';
 	font-size: 16px;
 	line-height: 19px;
 	color: #171717;
